@@ -15,7 +15,7 @@ class excel_creator:
         if code_type == "SHA256":
             ws.title = f'Результаты {code_type}'
             ws["A1"] = code_type
-            ws["B1"] = "Кол-во угроз"
+            ws["B1"] = "Угрозы"
 
             self.table_name = f"{code_type}_results.xlsx"
 
