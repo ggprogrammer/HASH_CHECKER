@@ -1,0 +1,7 @@
+.dockerignore
+Dockerfile
+__pycache__/excel.cpython-313.pyc
+__pycache__/pdf_reader.cpython-313.pyc
+input/Письмо_в_ПОДВЕДЫ_повышению_защищенности_ИИ_26_09_2025_файл_отображения.pdf
+app/__pycache__/excel.cpython-313.pyc
+app/__pycache__/pdf_reader.cpython-313.pyc
